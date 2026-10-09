@@ -1,0 +1,111 @@
+======================================================================
+MODEL: 1_baseline_1layer_len5  (val accuracy 9.7%, perplexity 426)
+======================================================================
+
+[seed: 'first citizen before we proceed' | temperature 0.6]
+first citizen before we proceed to swear that is the duke of york this good and mighty grace and to the world you will not this is a much by his blood of his love my lord and last most foot to the present his
+
+[seed: 'first citizen before we proceed' | temperature 1.0]
+first citizen before we proceed to take the knit of child that henry bolingbroke your solemnity sicinius barnardine knows your laws and this you do her let us sir him sir you master you pursue their poor and quite seeming angel kindred and tear and
+
+[seed: 'to be or not to be' | temperature 0.6]
+to be or not to be an other in the world i am not been a man for this he may be not not the king and by the best camillo i shall be a more of the flight that thou canst we have heard a
+
+[seed: 'to be or not to be' | temperature 1.0]
+to be or not to be offence music with the tongue thy faithful penitent the least so he is your assistance you would know not longs dead this comes is for the angry hearts the state shepherd so that he christopher for messenger henry such camillo
+
+[seed: 'my lord the king' | temperature 0.6]
+my lord the king to thee but my lord would you be the crown of the crown and have the business of our heart and the market sword and this murderer speak that i have heard thy words to my friend death why then
+
+[seed: 'my lord the king' | temperature 1.0]
+my lord the king tis you my sends thou to my act the prince we such given of greater more than grace or unnatural comes then to her love my impatience as secret friar anne what make his own corse but the plague you
+
+[seed: 'romeo romeo where art thou' | temperature 0.6]
+romeo romeo where art thou wert too less a but romeo in mine days first citizen you must be a little lands for a man but always to be son what thou hast a man shall have been full of his sight to him so
+
+[seed: 'romeo romeo where art thou' | temperature 1.0]
+romeo romeo where art thou jealous should do you been to make him his country and the west lord of york angelo not how i have done come up from shun this shame lets from him to the spoils when we do not be but
+
+======================================================================
+MODEL: 2_deeper_2layers_len5  (val accuracy 9.3%, perplexity 467)
+======================================================================
+
+[seed: 'first citizen before we proceed' | temperature 0.6]
+first citizen before we proceed to prison he not my lord and servant in this and courage then i have not a daughter i will be you i will be too to you but the hands of the dignity when thou art to thy head
+
+[seed: 'first citizen before we proceed' | temperature 1.0]
+first citizen before we proceed to night and provide my bones in once at my severity could abide hence than fright the house and what so do them so he would in sin and stratagems there in the countrymen past trumpets joind and leave to
+
+[seed: 'to be or not to be' | temperature 0.6]
+to be or not to be their child and the very heart of this ears my lord for all my soul of a head and the king of me i cannot be a oath and the very man where shall be done but i think my
+
+[seed: 'to be or not to be' | temperature 1.0]
+to be or not to be fine lest you is not made myself volumnia the common friend of my husband consider me if thou think abroad sour art so as you i been old and which george of this thousand brazen is mad angelo be clown
+
+[seed: 'my lord the king' | temperature 0.6]
+my lord the king of men in this i know you in the crown of the right and thou art this is though the own and dream my lord is done of a very lord if thou hast not a haste will hear him
+
+[seed: 'my lord the king' | temperature 1.0]
+my lord the king at not this price at the time where the very voices marry their nurse why but a remembrance are bad honour how i would be he omit me venom let them instruct this peace of haste i is lucio you
+
+[seed: 'romeo romeo where art thou' | temperature 0.6]
+romeo romeo where art thou hadst none from the king we shall marry take her and a battle that i was born in a duke of ely and thou shalt have too they have not been some business hath a tongue shall be so then
+
+[seed: 'romeo romeo where art thou' | temperature 1.0]
+romeo romeo where art thou hunt a land and play the enemy king richard ii and you remember me to these charity in coriolanus and i think as then where complaint like not seems or their man and preserved form more men to this they
+
+======================================================================
+MODEL: 3_longer_context_len10  (val accuracy 9.8%, perplexity 428)
+======================================================================
+
+[seed: 'first citizen before we proceed any further hear me speak' | temperature 0.6]
+first citizen before we proceed any further hear me speak i fear it for the duke of york it is the substance of the time of the people of the end and i will be too a grace of the people and the peoples kindred of the duke of york
+
+[seed: 'first citizen before we proceed any further hear me speak' | temperature 1.0]
+first citizen before we proceed any further hear me speak to god and fourth king edward iv upon this duke awake poor retired boy time wert i will you do he shall command it for he is content to dispute our head the garland hath joy mine a child and
+
+[seed: 'to be or not to be' | temperature 0.6]
+to be or not to be been for you and that i am for her good i am so if he so if you i have to thy own coriolanus who is a woman to the way and thus thou art which thou art like a
+
+[seed: 'to be or not to be' | temperature 1.0]
+to be or not to be names paris king at his high younger leaves the office of that that if methinks a elbow isabella he craves scorn you on a daughter and richard one to thy inward duke of york sounds no means first comes ill
+
+[seed: 'my lord the king' | temperature 0.6]
+my lord the king of york thou art to heaven to my lord king edward iv what is a man is a sacred of my lord gloucester there is not what is a man and nor like a life of this tale may your
+
+[seed: 'my lord the king' | temperature 1.0]
+my lord the king who is my suitor o the most form the great brave twelve towards it menenius for me who none lucio give him i am not me sometimes what throw o cut at head do for an clarence and doth you
+
+[seed: 'romeo romeo where art thou' | temperature 0.6]
+romeo romeo where art thou shalt die there is the womans hast being sure in the other looks to the people come have not the child gloucester i am when he hath been a most majesty as we should be with what thou hast they
+
+[seed: 'romeo romeo where art thou' | temperature 1.0]
+romeo romeo where art thou praise me your father give you or speak in romeo and to deny it of this maids so please to to any hour than was executed so we name it lord i in ourself curse should do not with a
+
+======================================================================
+MODEL: 4_wider_256units_len5  (val accuracy 9.8%, perplexity 417)
+======================================================================
+
+[seed: 'first citizen before we proceed' | temperature 0.6]
+first citizen before we proceed to yours his daughter and i be found a kind and servant how i have not a crown to the crown and i will be too i do not the once and the joints right death and the city is
+
+[seed: 'first citizen before we proceed' | temperature 1.0]
+first citizen before we proceed to life the hangman of heaven with some enemy i entertain some palm camillo us resign the other and he would have spent in this pale with woes and entreated only but the main peoples dog warwick and her for
+
+[seed: 'to be or not to be' | temperature 0.6]
+to be or not to be so we have a very man with me so that i may give him but i do not the king and so a little bawd to the days and the world to pardon our holy horse but i see it
+
+[seed: 'to be or not to be' | temperature 1.0]
+to be or not to be brief run not to be no pain edward the land with his own crown humbly go first servingman we haply wedded that should be very a beloved as i are roses not to see scape me ill serve you even
+
+[seed: 'my lord the king' | temperature 0.6]
+my lord the king i am a gentleman and say i will i love for the house of a time he shall bear the wife and live as i am too more than i have heard he would not be so many man as
+
+[seed: 'my lord the king' | temperature 1.0]
+my lord the king see and a game now the time when the dead has cut out of france i was kind at humble fresh goodly up a sea that flayed old breathing corse tale then lucio upon you mistress sir the foe of
+
+[seed: 'romeo romeo where art thou' | temperature 0.6]
+romeo romeo where art thou wert full of a king henry bolingbroke master noise thou art a reasons that i would wish my father and so miss the world but his hate are a word but we were sent to thy general or thou shalt
+
+[seed: 'romeo romeo where art thou' | temperature 1.0]
+romeo romeo where art thou trumpet or if i pray to give him for this i with himself but i may pay to gentle i me from all more honest months one for holy good hand and the inheritance as high nor death you shall
